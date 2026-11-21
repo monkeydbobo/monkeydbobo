@@ -8,7 +8,7 @@
 <details open>
 <summary><strong>English</strong></summary>
 
-I work at [StreamLake](https://www.streamlake.com/), Kuaishou. I'm a **full-stack engineer** from video systems. Players, delivery, and client infrastructure are the foundation. AI video products are where that foundation ships.
+I work at [StreamLake](https://www.streamlake.com/), Kuaishou. I'm a **full-stack engineer**. For more than a year, the center of the work has been **backend architecture** and **AI agent** development.
 
 🤖 I'm an **AI agent** enthusiast. I like agents that can take a job all the way through, and I spend time on how they actually work.
 
@@ -36,14 +36,14 @@ I'm using **AI** to build cooler audio and video tools for people who are actual
 
 ### 📺 Before
 
-Years in audio and video clients and infrastructure:
+Client development was the profession for years:
 
 - Players on Android, iOS, C++, and FFmpeg
 - PCDN client technology
 - Android client infrastructure
 - **Compilation and build systems**, from native code to a client that ships
 
-Same line of work. Earlier I made video play and travel reliably. Now I make the video itself, and get it into a creator's hands.
+I have not touched client work for more than a year. That stretch was professional work: making video play and travel reliably.
 
 ### 🦀 Open source
 
@@ -58,7 +58,7 @@ I like building with product, design, business, and engineering in the same room
 <details>
 <summary><strong>中文</strong></summary>
 
-我在快手的 [StreamLake](https://www.streamlake.com/) 工作，是从音视频系统出来的**全栈工程师**。播放器、分发和客户端基础架构是底子。AI 视频产品是这套底子现在交付的地方。
+我在快手的 [StreamLake](https://www.streamlake.com/) 工作，是**全栈工程师**。最近一年多，工作重心在**后端架构设计**和 **Agent 开发**。
 
 🤖 我是 **AI agent** 狂热爱好者。我喜欢能把一件事做完的 agent，也会花时间弄清它们到底怎么工作。
 
@@ -86,14 +86,14 @@ I like building with product, design, business, and engineering in the same room
 
 ### 📺 以前
 
-音视频客户端和基础架构做了很多年：
+客户端是我以前的专业，做了很多年：
 
 - 播放器：Android、iOS、C++、FFmpeg
 - PCDN 客户端
 - Android 客户端基础架构
 - **编译和构建系统**，从原生代码到能发出去的客户端
 
-同一条线。以前把视频播稳、传稳。现在把视频做出来，交到创作者手里。
+客户端开发已经一年多没碰了。那一段是专业工作：把视频播稳、传稳。
 
 ### 🦀 开源
 

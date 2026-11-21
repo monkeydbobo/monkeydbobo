@@ -7,6 +7,8 @@
 
 I work at [StreamLake](https://www.streamlake.ai/), Kuaishou. I come from video systems and now work full-stack. Players, delivery, and client infrastructure are the foundation. AI video products are where that foundation ships.
 
+🤖 I'm an AI agent enthusiast. I like agents that can take a job all the way through, and I spend time on how they actually work.
+
 I care about two things: getting the implementation right, and putting it in front of people who will use it. The value of the work shows up in the product and in the business.
 
 ### 🎬 Now
@@ -32,6 +34,7 @@ Years in audio and video clients and infrastructure:
 - Players on Android, iOS, C++, and FFmpeg
 - PCDN client technology
 - Android client infrastructure
+- Compilation and build systems, from native code to a client that ships
 
 Same line of work. Earlier I made video play and travel reliably. Now I make the video itself, and get it into a creator's hands.
 

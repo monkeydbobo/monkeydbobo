@@ -30,6 +30,10 @@ An AI video studio for social clips. In December 2025 it was **#1 Product of the
 
 A personal full-stack project. A narrative filmmaking workspace that takes an idea or a novel through script, cast, locations, and storyboard, then into video.
 
+**🚧 In preparation**
+
+I'm using **AI** to build cooler audio and video tools for people who are actually creating. The point is to solve their real problems. This one is still in the works.
+
 ### 📺 Before
 
 Years in audio and video clients and infrastructure:
@@ -75,6 +79,10 @@ I like building with product, design, business, and engineering in the same room
 **🎞️ [oioi.bio](http://oioi.bio)**
 
 个人全栈项目。一个叙事影像工作台：从想法或小说出发，经过剧本、角色、场景和分镜，再到视频。
+
+**🚧 筹备中**
+
+我在用 **AI** 做一批更酷的音视频处理工具，帮真正在创作的人解决问题。这个还在筹备。
 
 ### 📺 以前
 

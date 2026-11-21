@@ -8,7 +8,7 @@
 <details open>
 <summary><strong>English</strong></summary>
 
-I work at [StreamLake](https://www.streamlake.ai/), Kuaishou. I'm a **full-stack engineer** from video systems. Players, delivery, and client infrastructure are the foundation. AI video products are where that foundation ships.
+I work at [StreamLake](https://www.streamlake.com/), Kuaishou. I'm a **full-stack engineer** from video systems. Players, delivery, and client infrastructure are the foundation. AI video products are where that foundation ships.
 
 🤖 I'm an **AI agent** enthusiast. I like agents that can take a job all the way through, and I spend time on how they actually work.
 
@@ -58,7 +58,7 @@ I like building with product, design, business, and engineering in the same room
 <details>
 <summary><strong>中文</strong></summary>
 
-我在快手的 [StreamLake](https://www.streamlake.ai/) 工作，是从音视频系统出来的**全栈工程师**。播放器、分发和客户端基础架构是底子。AI 视频产品是这套底子现在交付的地方。
+我在快手的 [StreamLake](https://www.streamlake.com/) 工作，是从音视频系统出来的**全栈工程师**。播放器、分发和客户端基础架构是底子。AI 视频产品是这套底子现在交付的地方。
 
 🤖 我是 **AI agent** 狂热爱好者。我喜欢能把一件事做完的 agent，也会花时间弄清它们到底怎么工作。
 

@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.png">
-  <img alt="Hi, I'm WANGHAOBO aka monkeydbobo" src="assets/hello-light.png" width="560">
+  <img alt="Hi, I'm HAOBO WANG aka monkeydbobo" src="assets/hello-light.png" width="560">
 </picture>
 
 I work at [StreamLake](https://www.streamlake.ai/), Kuaishou. I come from video systems and now work full-stack. Players, delivery, and client infrastructure are the foundation. AI video products are where that foundation ships.

@@ -8,7 +8,7 @@
 <details open>
 <summary><strong>English</strong></summary>
 
-I work at [StreamLake](https://www.streamlake.com/), Kuaishou. I'm a **full-stack engineer**. For more than a year, the center of the work has been **backend architecture** and **AI agent** development.
+I work at [StreamLake](https://www.streamlake.com/), Kuaishou. I'm a **full-stack engineer**. For more than a year, the center of the work has been **backend architecture** and **AI agent** development. At StreamLake, I took part in commercializing the AI capabilities of [Kuaishou Wanqing](https://www.streamlake.com/product/wanqing).
 
 🤖 I'm an **AI agent** enthusiast. I like agents that can take a job all the way through, and I spend time on how they actually work.
 
@@ -18,7 +18,7 @@ I care about two things: getting the implementation right, and putting it in fro
 
 **✂️ [CyberCut](https://cybercut.ai)** · [Product Hunt](https://www.producthunt.com/products/cybercut)
 
-An AI video studio for social clips. In December 2025 it was **#1 Product of the Day, the Week, and the Month**, and #1 of the month in Artificial Intelligence and Marketing. I built the product's frontend and backend, with the architecture centered on the **backend**: long-to-short clips, marketing videos, captions, and the pipeline that turns source material into something ready to publish.
+An AI video studio for social clips. I'm the **technical lead**. In December 2025 it was **#1 Product of the Day, the Week, and the Month**, and #1 of the month in Artificial Intelligence and Marketing. I built the product's frontend and backend, with the architecture centered on the **backend**: long-to-short clips, marketing videos, captions, and the pipeline that turns source material into something ready to publish.
 
 <a href="https://www.producthunt.com/products/cybercut/awards"><img src="assets/ph-product-of-the-month.png" height="32" alt="Product Hunt #1 Product of the Month"></a>
 &nbsp;
@@ -58,7 +58,7 @@ I like building with product, design, business, and engineering in the same room
 <details>
 <summary><strong>中文</strong></summary>
 
-我在快手的 [StreamLake](https://www.streamlake.com/) 工作，是**全栈工程师**。最近一年多，工作重心在**后端架构设计**和 **Agent 开发**。
+我在快手的 [StreamLake](https://www.streamlake.com/) 工作，是**全栈工程师**。最近一年多，工作重心在**后端架构设计**和 **Agent 开发**。在 StreamLake，我参与了[快手万擎](https://www.streamlake.com/product/wanqing) AI 能力的商业化建设。
 
 🤖 我是 **AI agent** 狂热爱好者。我喜欢能把一件事做完的 agent，也会花时间弄清它们到底怎么工作。
 
@@ -68,7 +68,7 @@ I like building with product, design, business, and engineering in the same room
 
 **✂️ [CyberCut](https://cybercut.ai)** · [Product Hunt](https://www.producthunt.com/products/cybercut)
 
-面向社交传播的 AI 视频工作室。2025 年 12 月，它在 Product Hunt 拿下**日榜、周榜、月榜第一**，Artificial Intelligence 和 Marketing 两个品类也是当月第一。我做了产品的前后端能力，架构重心在**后端**：长视频切片、营销视频、字幕，以及从素材到可发布成片的链路。
+面向社交传播的 AI 视频工作室。我是它的**技术负责人**。2025 年 12 月，它在 Product Hunt 拿下**日榜、周榜、月榜第一**，Artificial Intelligence 和 Marketing 两个品类也是当月第一。我做了产品的前后端能力，架构重心在**后端**：长视频切片、营销视频、字幕，以及从素材到可发布成片的链路。
 
 <a href="https://www.producthunt.com/products/cybercut/awards"><img src="assets/ph-product-of-the-month.png" height="32" alt="Product Hunt #1 Product of the Month"></a>
 &nbsp;

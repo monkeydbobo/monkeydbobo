@@ -5,7 +5,7 @@
   <img alt="Hi, I'm HAOBO WANG aka monkeydbobo" src="assets/hello-light.png" width="560">
 </picture>
 
-I work at [StreamLake](https://www.streamlake.ai/), Kuaishou. I come from video systems and now work full-stack. Players, delivery, and client infrastructure are the foundation. AI video products are where that foundation ships.
+I work at [StreamLake](https://www.streamlake.ai/), Kuaishou. I'm a full-stack engineer from video systems. Players, delivery, and client infrastructure are the foundation. AI video products are where that foundation ships.
 
 🤖 I'm an AI agent enthusiast. I like agents that can take a job all the way through, and I spend time on how they actually work.
 

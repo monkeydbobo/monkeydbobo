@@ -1,16 +1,9 @@
 <!-- author: wanghaobo -->
 
-<p align="center">
-  <a href="https://cybercut.ai"><img src="assets/mark.png" width="84" alt="CyberCut"></a>
-</p>
-
-<p align="center">
-  <a href="https://www.producthunt.com/products/cybercut/awards"><img src="assets/ph-product-of-the-month.png" height="44" alt="Product Hunt #1 Product of the Month"></a>
-  &nbsp;
-  <a href="https://www.producthunt.com/products/cybercut/awards"><img src="assets/ph-artificial-intelligence.png" height="44" alt="#1 Product of the Month, Artificial Intelligence"></a>
-  &nbsp;
-  <a href="https://www.producthunt.com/products/cybercut/awards"><img src="assets/ph-marketing.png" height="44" alt="#1 Product of the Month, Marketing"></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.png">
+  <img alt="Hi, I'm WANGHAOBO aka monkeydbobo" src="assets/hello-light.png" width="560">
+</picture>
 
 I come from video systems and now work full-stack. Players, delivery, and client infrastructure are the foundation. AI video products are where that foundation ships.
 
@@ -21,6 +14,12 @@ I care about two things: getting the implementation right, and putting it in fro
 **[CyberCut](https://cybercut.ai)** · [Product Hunt](https://www.producthunt.com/products/cybercut)
 
 An AI video studio for social clips. In December 2025 it was #1 Product of the Day, the Week, and the Month, and #1 of the month in Artificial Intelligence and Marketing. I built the product's frontend and backend, with the architecture centered on the backend: long-to-short clips, marketing videos, captions, and the pipeline that turns source material into something ready to publish.
+
+<a href="https://www.producthunt.com/products/cybercut/awards"><img src="assets/ph-product-of-the-month.png" height="32" alt="Product Hunt #1 Product of the Month"></a>
+&nbsp;
+<a href="https://www.producthunt.com/products/cybercut/awards"><img src="assets/ph-artificial-intelligence.png" height="32" alt="#1 Product of the Month, Artificial Intelligence"></a>
+&nbsp;
+<a href="https://www.producthunt.com/products/cybercut/awards"><img src="assets/ph-marketing.png" height="32" alt="#1 Product of the Month, Marketing"></a>
 
 **[oioi.bio](http://oioi.bio)**
 
